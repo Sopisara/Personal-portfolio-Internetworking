@@ -1,7 +1,7 @@
 # Personal-portfolio-Internetworking
 นางสาว โศภิสรา ศาลางาม 673380261-6
 
-Final Project : [IT01_IP Services](https://drive.google.com/drive/folders/1ZAmNzrdnOHAZOtGZ_Ef2PimXO7iqeGrR?usp=drive_link)
+Final Project : [IT01 IP Services](https://drive.google.com/drive/folders/1ZAmNzrdnOHAZOtGZ_Ef2PimXO7iqeGrR?usp=drive_link)
 
 ภายในลิงค์ จะมีงาน
 - IT01_Part I : [Presentation](https://drive.google.com/drive/folders/1QFooM9ToW253Htv7brTv2JghViVKJRj_?usp=drive_link)
